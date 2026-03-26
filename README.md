@@ -7,3 +7,7 @@ Cha, S.; Wang, C.; Fung, V.; Hu, G. *Ligand-Controlled Phonon Dynamics in CsPbBr
 If you have any questions regarding this repostiory, create an issue or contact scha@gatech.edu.
 
 ## Overview
+
+### Train and test dataset
+
+The dataset used to fine-tune MatterSim-v1.0.0-1M is provided on [Zenodo](https://zenodo.org/records/19229063) in `.extxyz` files.
